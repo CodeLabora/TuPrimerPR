@@ -1,0 +1,23 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 340D-73E2
+
+ Directorio de c:\Temp\TuPrimerPR
+
+09/08/2019  14:31    <DIR>          .
+09/08/2019  14:31    <DIR>          ..
+09/08/2019  14:26                18 archivo
+09/08/2019  14:31                 0 archivo.txt
+09/08/2019  14:26                 0 archivo1
+09/08/2019  14:26                 0 archivo2
+09/08/2019  14:26                 0 archivo3
+09/08/2019  14:26                 0 archivo4
+09/08/2019  14:26                12 archivo5
+09/08/2019  14:26                 0 archivo6
+09/08/2019  14:26                 0 archivo7
+09/08/2019  14:26                 0 filejm
+09/08/2019  14:26            35.815 LICENSE
+09/08/2019  14:26                13 miArchivoMejora.txt
+09/08/2019  14:26               224 README.md
+09/08/2019  14:26                19 script.txt
+              14 archivos         36.101 bytes
+               2 dirs  239.046.213.632 bytes libres
